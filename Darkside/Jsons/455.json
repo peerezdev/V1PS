@@ -3,7 +3,7 @@
     "symbol": "VIPS",
     "description": "999 High-quality AI V1P$ making Web 3 the best place",
     "seller_fee_basis_points": 800,
-    "image": "https://raw.githubusercontent.com/peerezdev/V1PS/master/Darkside/Images/455.json",
+    "image": "https://raw.githubusercontent.com/peerezdev/V1PS/master/Darkside/Images/455.png",
     "external_url": "",
     "collection": {
         "name": "V1P$",
@@ -18,7 +18,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/peerezdev/V1PS/master/Darkside/Images/455.json",
+                "uri": "https://raw.githubusercontent.com/peerezdev/V1PS/master/Darkside/Images/455.png",
                 "type": "image/png"
             }
         ],
